@@ -11,4 +11,4 @@ spring:
 #   mapper-locations: classpath:mappers/*.xml
 
 mybatis-plus:
-  mapper-locations=classpath:mappers/*.xml
+  mapper-locations: classpath:mappers/*.xml
